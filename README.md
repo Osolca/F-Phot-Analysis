@@ -1,5 +1,5 @@
 # F-Phot-Analysis
-This Matlab code was created for Michaelides' Lab to analyze and analyze fiber photometry across multiple animals with support for saline vs. drug conditions and per-minute AUC analysis.
+This Matlab code was created for Michaelides' Lab to analyze fiber photometry across multiple animals with support for saline vs. drug conditions and per-minute AUC analysis.
 
  Fiber Photometry Analysis - MATLAB Toolkit
 
