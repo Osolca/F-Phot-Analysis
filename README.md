@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/976117273.svg)](https://doi.org/10.5281/zenodo.15665589)
+
 # F-Phot-Analysis
 This Matlab code was created for Michaelides' Lab to analyze fiber photometry across multiple animals with support for saline vs. drug conditions and per-minute AUC analysis.
 
